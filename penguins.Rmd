@@ -1,6 +1,6 @@
 ---
 title: "Etude sur les manchots"
-author: "Lucile Ansaldi"
+author: "Lucile Ansaldi2023"
 date: "9/2/2021"
 output: html_document
 ---
